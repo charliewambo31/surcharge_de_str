@@ -10,7 +10,7 @@ class Dog:
 
 class SheepDog(Dog):
     def __str__(self):
-        return super().__str__() + " Don't run away, Little Lamb!"
+        return super().__str__() + "Ne va pas dehors, Little Lamb!"
 
 
 class GuardDog(Dog):
